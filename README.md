@@ -1,5 +1,5 @@
 # V14-discord-bot-
 
 
-#Not
+# Not
 Bu Botları 140-150 star gelince paylaşıcam.
