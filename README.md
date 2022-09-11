@@ -2,4 +2,4 @@
 
 
 # Not
-Bu Botları 140-150 star gelince paylaşıcam.
+Bu Botları 100 star gelince paylaşıcam.
